@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/new_game"
+        android:title="@string/new_game"
+        android:showAsAction="never" />
+
+    <item
+        android:id="@+id/ai_difficulty"
+        android:title="@string/difficulty_choose"
+        android:showAsAction="never" />
+
+    <item
+        android:id="@+id/about"
+        android:title="@string/about_title"
+        android:showAsAction="never" />
+
+    <item
+        android:id="@+id/quit"
+        android:title="@string/quit_question"
+        android:showAsAction="never" />
+</menu>

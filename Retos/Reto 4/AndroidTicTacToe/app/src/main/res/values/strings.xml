@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Tic-Tac-Toe</string>
+    <string name="first_human">Empiezas tú.</string>
+    <string name="turn_human">Tu turno.</string>
+    <string name="turn_computer">Turno de Android.</string>
+    <string name="result_tie">¡Es un empate!</string>
+    <string name="result_human_wins">¡Ganaste!</string>
+    <string name="result_computer_wins">¡Android ganó!</string>
+
+    <string name="new_game">Nuevo Juego</string>
+    <string name="difficulty_choose">Dificultad</string>
+    <string name="difficulty_easy">Fácil</string>
+    <string name="difficulty_harder">Intermedio</string>
+    <string name="difficulty_expert">Experto</string>
+    <string name="quit">Salir</string>
+    <string name="quit_question">¿Seguro que deseas salir?</string>
+    <string name="yes">Sí</string>
+    <string name="no">No</string>
+    <string name="about_title">Acerca de</string>
+    <string name="about_text">Tic-Tac-Toe\nDesarrollado para Android.</string>
+    <string name="ok">OK</string>
+
+    <!-- Puntuación -->
+    <string name="score_human">Humano: %d</string>
+    <string name="score_ties">Empates: %d</string>
+    <string name="score_android">Android: %d</string>
+</resources>
