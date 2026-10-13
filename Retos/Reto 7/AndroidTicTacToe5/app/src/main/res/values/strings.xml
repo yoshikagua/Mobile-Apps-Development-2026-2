@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Tic-Tac-Toe</string>
+    <string name="first_human">Empiezas tú.</string>
+    <string name="turn_human">Tu turno.</string>
+    <string name="turn_computer">Turno de Android.</string>
+    <string name="result_tie">¡Es un empate!</string>
+    <string name="result_human_wins">¡Ganaste!</string>
+    <string name="result_computer_wins">¡Android ganó!</string>
+
+    <string name="new_game">Nuevo Juego</string>
+    <string name="difficulty_choose">Dificultad</string>
+    <string name="difficulty_easy">Fácil</string>
+    <string name="difficulty_harder">Intermedio</string>
+    <string name="difficulty_expert">Experto</string>
+    <string name="quit">Salir</string>
+    <string name="quit_question">¿Seguro que deseas salir?</string>
+    <string name="yes">Sí</string>
+    <string name="no">No</string>
+    <string name="about_title">Acerca de</string>
+    <string name="about_text">Tic-Tac-Toe\nDesarrollado para Android.</string>
+    <string name="ok">OK</string>
+
+    <!-- Puntuación -->
+    <string name="score_human">Humano: %d</string>
+    <string name="score_ties">Empates: %d</string>
+    <string name="score_android">Android: %d</string>
+
+    <!-- Juego Online (Reto 7) -->
+    <string name="title_online_lobby">Salón de Juegos Online</string>
+    <string name="title_online_game">Triqui Online</string>
+    <string name="btn_online_mode">Juego Online</string>
+    <string name="btn_create_game">Crear Juego</string>
+    <string name="btn_refresh">Actualizar</string>
+    <string name="btn_join_game">Unirse</string>
+    <string name="hint_game_name">Nombre de la partida</string>
+    <string name="hint_player_name">Tu nombre / Apodo</string>
+    <string name="status_waiting_player2">Esperando a que se una el Jugador 2...</string>
+    <string name="status_connected">¡Jugador 2 conectado!</string>
+    <string name="status_your_turn">Tu turno (%s)</string>
+    <string name="status_opponent_turn">Turno de tu rival (%s)</string>
+    <string name="status_you_won">¡Ganaste la partida online!</string>
+    <string name="status_opponent_won">Gana tu rival (%s)</string>
+    <string name="status_game_tied">¡Empate en la partida online!</string>
+    <string name="no_games_available">No hay juegos disponibles. ¡Crea uno nuevo!</string>
+    <string name="prompt_enter_game_name">Ingresa un nombre para tu partida:</string>
+    <string name="score_player1">Jugador 1 (X): %d</string>
+    <string name="score_player2">Jugador 2 (O): %d</string>
+    <string name="player_left">El otro jugador abandonó la partida.</string>
+</resources>
