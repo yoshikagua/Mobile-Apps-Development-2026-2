@@ -1,13 +1,21 @@
+import java.io.FileInputStream
+import java.util.Properties
+
 plugins {
     alias(libs.plugins.android.application)
     alias(libs.plugins.kotlin.compose)
 }
 
+// Cargar las propiedades desde app/firebase.properties si existe
+val firebaseProps = Properties()
+val firebasePropsFile = rootProject.file("app/firebase.properties")
+if (firebasePropsFile.exists()) {
+    firebaseProps.load(FileInputStream(firebasePropsFile))
+}
+
 android {
     namespace = "co.edu.unal.tictactoe"
-    compileSdk {
-        version = release(37)
-    }
+    compileSdk = 37
 
     defaultConfig {
         applicationId = "co.edu.unal.tictactoe"
@@ -17,6 +25,23 @@ android {
         versionName = "1.0"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
+
+        // Inyectar variables desde firebase.properties (o usar valores por defecto)
+        buildConfigField(
+            "String",
+            "FIREBASE_DATABASE_URL",
+            "\"${firebaseProps.getProperty("FIREBASE_DATABASE_URL", "https://triquionline-51313-default-rtdb.firebaseio.com/")}\""
+        )
+        buildConfigField(
+            "String",
+            "FIREBASE_APP_ID",
+            "\"${firebaseProps.getProperty("FIREBASE_APP_ID", "1:100000000000:android:1000000000000000")}\""
+        )
+        buildConfigField(
+            "String",
+            "FIREBASE_PROJECT_ID",
+            "\"${firebaseProps.getProperty("FIREBASE_PROJECT_ID", "tictactoe-online-default")}\""
+        )
     }
 
     buildTypes {
@@ -32,6 +57,7 @@ android {
     }
     buildFeatures {
         compose = true
+        buildConfig = true // NECESARIO para permitir la generación de la clase BuildConfig
     }
 }
 

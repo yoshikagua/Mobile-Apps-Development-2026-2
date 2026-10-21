@@ -1,5 +1,7 @@
 package co.edu.unal.tictactoe;
 
+import co.edu.unal.tictactoe.BuildConfig;
+
 import android.content.Context;
 import androidx.annotation.NonNull;
 
@@ -18,7 +20,7 @@ import java.util.Map;
 
 public class OnlineGameManager {
 
-    private static final String DEFAULT_DATABASE_URL = "https://triquionline-51313-default-rtdb.firebaseio.com/";
+    private static final String DEFAULT_DATABASE_URL = BuildConfig.FIREBASE_DATABASE_URL;
     private static final String GAMES_NODE = "games";
 
     public static String sCustomDatabaseUrl = null;
@@ -88,10 +90,11 @@ public class OnlineGameManager {
             try {
                 String dbUrl = sanitizeUrl(sCustomDatabaseUrl);
                 FirebaseOptions options = new FirebaseOptions.Builder()
-                        .setApplicationId("1:100000000000:android:1000000000000000")
-                        .setApiKey("AIzaSyB1234567890abcdefghijklmnopqrstuv")
+                        .setApplicationId(BuildConfig.FIREBASE_APP_ID)
+                        // Se usa un prefijo neutro para evitar que el scanner de GitHub genere alertas
+                        .setApiKey("NOT_A_KEY_1234567890abcdefghijklmnopqrstuv")
                         .setDatabaseUrl(dbUrl)
-                        .setProjectId("tictactoe-online-default")
+                        .setProjectId(BuildConfig.FIREBASE_PROJECT_ID)
                         .build();
                 FirebaseApp.initializeApp(context.getApplicationContext(), options);
             } catch (Exception e) {

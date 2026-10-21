@@ -1,0 +1,5 @@
+# Plantilla de configuración de Firebase
+# Copia este archivo como firebase.properties y completa con tus valores
+FIREBASE_DATABASE_URL=https://tu-proyecto-default-rtdb.firebaseio.com/
+FIREBASE_APP_ID=1:000000000000:android:0000000000000000
+FIREBASE_PROJECT_ID=tu-proyecto-id
