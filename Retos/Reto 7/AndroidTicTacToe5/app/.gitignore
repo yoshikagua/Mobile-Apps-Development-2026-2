@@ -1,4 +1,4 @@
 /build
 # Firebase local secrets
-app/firebase.properties
+/firebase.properties
 **/firebase.properties
