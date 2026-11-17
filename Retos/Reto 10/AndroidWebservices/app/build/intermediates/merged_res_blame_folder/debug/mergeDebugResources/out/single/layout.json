@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.example.androidwebservices.app-mergeDebugResources-32:/layout/activity_main.xml",
+        "source": "com.example.androidwebservices.app-main-35:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\yoshikagua\\.gradle\\daemon\\9.5.0\\com.example.androidwebservices.app-mergeDebugResources-32:\\layout\\item_punto_posconsumo.xml",
+        "source": "C:\\Users\\yoshikagua\\.gradle\\daemon\\9.5.0\\com.example.androidwebservices.app-main-35:\\layout\\item_punto_posconsumo.xml"
+    },
+    {
+        "merged": "C:\\Users\\yoshikagua\\.gradle\\daemon\\9.5.0\\com.example.androidwebservices.app-mergeDebugResources-32:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\yoshikagua\\.gradle\\daemon\\9.5.0\\com.example.androidwebservices.app-main-35:\\layout\\activity_main.xml"
+    }
+]

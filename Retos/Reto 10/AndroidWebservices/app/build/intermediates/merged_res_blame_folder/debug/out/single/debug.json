@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "com.example.androidwebservices.app-merged_res-34:/drawable_ic_info.xml.flat",
+        "source": "com.example.androidwebservices.app-main-36:/drawable/ic_info.xml"
+    },
+    {
+        "merged": "com.example.androidwebservices.app-merged_res-34:/drawable_ic_location.xml.flat",
+        "source": "com.example.androidwebservices.app-main-36:/drawable/ic_location.xml"
+    },
+    {
+        "merged": "com.example.androidwebservices.app-merged_res-34:/layout_item_punto_posconsumo.xml.flat",
+        "source": "com.example.androidwebservices.app-main-36:/layout/item_punto_posconsumo.xml"
+    },
+    {
+        "merged": "com.example.androidwebservices.app-merged_res-34:/drawable_ic_recycling.xml.flat",
+        "source": "com.example.androidwebservices.app-main-36:/drawable/ic_recycling.xml"
+    },
+    {
+        "merged": "com.example.androidwebservices.app-merged_res-34:/drawable_ic_refresh.xml.flat",
+        "source": "com.example.androidwebservices.app-main-36:/drawable/ic_refresh.xml"
+    },
+    {
+        "merged": "com.example.androidwebservices.app-merged_res-34:/drawable_ic_search.xml.flat",
+        "source": "com.example.androidwebservices.app-main-36:/drawable/ic_search.xml"
+    },
+    {
+        "merged": "com.example.androidwebservices.app-merged_res-34:/layout_activity_main.xml.flat",
+        "source": "com.example.androidwebservices.app-main-36:/layout/activity_main.xml"
+    }
+]

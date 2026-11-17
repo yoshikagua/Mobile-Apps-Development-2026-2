@@ -1,0 +1,8 @@
+com.example.androidwebservices.app-pngs-0 C:\Users\yoshikagua\Desktop\U\Semestre 10\Desarrollo de aplicaciones moviles\Mobile-Apps-Development-2026-2\Retos\Reto 10\AndroidWebservices\app\build\generated\res\pngs\debug
+com.example.androidwebservices.app-updated_navigation_xml-1 C:\Users\yoshikagua\Desktop\U\Semestre 10\Desarrollo de aplicaciones moviles\Mobile-Apps-Development-2026-2\Retos\Reto 10\AndroidWebservices\app\build\generated\updated_navigation_xml\debug
+com.example.androidwebservices.app-packageDebugResources-2 C:\Users\yoshikagua\Desktop\U\Semestre 10\Desarrollo de aplicaciones moviles\Mobile-Apps-Development-2026-2\Retos\Reto 10\AndroidWebservices\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.androidwebservices.app-packageDebugResources-3 C:\Users\yoshikagua\Desktop\U\Semestre 10\Desarrollo de aplicaciones moviles\Mobile-Apps-Development-2026-2\Retos\Reto 10\AndroidWebservices\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.androidwebservices.app-debug-4 C:\Users\yoshikagua\Desktop\U\Semestre 10\Desarrollo de aplicaciones moviles\Mobile-Apps-Development-2026-2\Retos\Reto 10\AndroidWebservices\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.androidwebservices.app-debug-5 C:\Users\yoshikagua\Desktop\U\Semestre 10\Desarrollo de aplicaciones moviles\Mobile-Apps-Development-2026-2\Retos\Reto 10\AndroidWebservices\app\src\debug\res
+com.example.androidwebservices.app-main-6 C:\Users\yoshikagua\Desktop\U\Semestre 10\Desarrollo de aplicaciones moviles\Mobile-Apps-Development-2026-2\Retos\Reto 10\AndroidWebservices\app\src\main\res
+gradleHome-0 C:\Users\yoshikagua\.gradle

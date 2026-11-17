@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\yoshikagua\\.gradle\\daemon\\9.5.0\\com.example.androidwebservices.app-debug-33:\\drawable_ic_recycling.xml.flat",
+        "source": "C:\\Users\\yoshikagua\\.gradle\\daemon\\9.5.0\\com.example.androidwebservices.app-main-35:\\drawable\\ic_recycling.xml"
+    },
+    {
+        "merged": "com.example.androidwebservices.app-debug-33:/layout_activity_main.xml.flat",
+        "source": "com.example.androidwebservices.app-main-35:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\yoshikagua\\.gradle\\daemon\\9.5.0\\com.example.androidwebservices.app-debug-33:\\menu_main_menu.xml.flat",
+        "source": "C:\\Users\\yoshikagua\\.gradle\\daemon\\9.5.0\\com.example.androidwebservices.app-main-35:\\menu\\main_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\yoshikagua\\.gradle\\daemon\\9.5.0\\com.example.androidwebservices.app-debug-33:\\drawable_ic_search.xml.flat",
+        "source": "C:\\Users\\yoshikagua\\.gradle\\daemon\\9.5.0\\com.example.androidwebservices.app-main-35:\\drawable\\ic_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\yoshikagua\\.gradle\\daemon\\9.5.0\\com.example.androidwebservices.app-debug-33:\\drawable_ic_location.xml.flat",
+        "source": "C:\\Users\\yoshikagua\\.gradle\\daemon\\9.5.0\\com.example.androidwebservices.app-main-35:\\drawable\\ic_location.xml"
+    },
+    {
+        "merged": "C:\\Users\\yoshikagua\\.gradle\\daemon\\9.5.0\\com.example.androidwebservices.app-debug-33:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\yoshikagua\\.gradle\\daemon\\9.5.0\\com.example.androidwebservices.app-main-35:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\yoshikagua\\.gradle\\daemon\\9.5.0\\com.example.androidwebservices.app-debug-33:\\layout_item_punto_posconsumo.xml.flat",
+        "source": "C:\\Users\\yoshikagua\\.gradle\\daemon\\9.5.0\\com.example.androidwebservices.app-main-35:\\layout\\item_punto_posconsumo.xml"
+    },
+    {
+        "merged": "C:\\Users\\yoshikagua\\.gradle\\daemon\\9.5.0\\com.example.androidwebservices.app-debug-33:\\drawable_ic_info.xml.flat",
+        "source": "C:\\Users\\yoshikagua\\.gradle\\daemon\\9.5.0\\com.example.androidwebservices.app-main-35:\\drawable\\ic_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\yoshikagua\\.gradle\\daemon\\9.5.0\\com.example.androidwebservices.app-debug-33:\\drawable_ic_refresh.xml.flat",
+        "source": "C:\\Users\\yoshikagua\\.gradle\\daemon\\9.5.0\\com.example.androidwebservices.app-main-35:\\drawable\\ic_refresh.xml"
+    }
+]

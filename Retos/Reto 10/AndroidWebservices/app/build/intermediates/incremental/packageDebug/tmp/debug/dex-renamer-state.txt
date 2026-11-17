@@ -1,0 +1,16 @@
+#Tue Nov 17 02:14:02 GMT-05:00 2026
+base.0=C\:\\Users\\yoshikagua\\Desktop\\U\\Semestre 10\\Desarrollo de aplicaciones moviles\\Mobile-Apps-Development-2026-2\\Retos\\Reto 10\\AndroidWebservices\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+base.1=C\:\\Users\\yoshikagua\\Desktop\\U\\Semestre 10\\Desarrollo de aplicaciones moviles\\Mobile-Apps-Development-2026-2\\Retos\\Reto 10\\AndroidWebservices\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.2=C\:\\Users\\yoshikagua\\Desktop\\U\\Semestre 10\\Desarrollo de aplicaciones moviles\\Mobile-Apps-Development-2026-2\\Retos\\Reto 10\\AndroidWebservices\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\12\\classes.dex
+base.3=C\:\\Users\\yoshikagua\\Desktop\\U\\Semestre 10\\Desarrollo de aplicaciones moviles\\Mobile-Apps-Development-2026-2\\Retos\\Reto 10\\AndroidWebservices\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\3\\classes.dex
+base.4=C\:\\Users\\yoshikagua\\Desktop\\U\\Semestre 10\\Desarrollo de aplicaciones moviles\\Mobile-Apps-Development-2026-2\\Retos\\Reto 10\\AndroidWebservices\\app\\build\\intermediates\\global_synthetics_dex\\debug\\generateDebugGlobalSynthetics\\classes.dex
+path.0=classes.dex
+path.1=0/classes.dex
+path.2=12/classes.dex
+path.3=3/classes.dex
+path.4=classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
+renamed.2=classes3.dex
+renamed.3=classes4.dex
+renamed.4=classes5.dex
